@@ -14,4 +14,4 @@ Before running the code, ensure you have the following dependencies installed:
 - Stable Baselines3
 
 Install these dependencies
-The training logs are present in the logs directory of this repo
+The training logs are present in the repository.
